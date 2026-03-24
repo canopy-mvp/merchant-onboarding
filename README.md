@@ -1,2 +1,10 @@
 # merchant-onboarding
-Merchant KYC/KYB onboarding workflows
+
+Merchant onboarding and KYC verification
+
+## Getting Started
+
+```bash
+npm install
+npm run build
+```

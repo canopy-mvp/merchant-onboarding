@@ -1,0 +1,14 @@
+{
+  "name": "@canopy-mvp/merchant-onboarding",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest run",
+    "lint": "eslint src/"
+  },
+  "dependencies": {
+    "fastify": "^4.26.0",
+    "prisma": "^5.9.0"
+  }
+}
